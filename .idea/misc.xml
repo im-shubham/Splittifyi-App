@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/drawable/bgbtnmenu.xml" value="0.1535" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/drawable/button_bg.xml" value="0.1535" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/drawable/custom_button1.xml" value="0.1535" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/drawable/custom_button2.xml" value="0.1535" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/drawable/custom_button3.xml" value="0.1535" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/drawable/edit_text_bg.xml" value="0.1535" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/drawable/edit_text_bg2.xml" value="0.1535" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/drawable/ic_menu_black_24dp.xml" value="0.1915" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/drawable/spinnerlayout.xml" value="0.1535" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/drawable/vie_bg.xml" value="0.1535" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/layout/activity_add_expenses.xml" value="0.5" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/layout/activity_add_members.xml" value="0.33" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/layout/activity_calculate.xml" value="0.33" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/layout/activity_expense_pie_graph.xml" value="0.2" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/layout/activity_group_creation.xml" value="0.25" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/layout/activity_introductory.xml" value="0.25" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/layout/activity_members.xml" value="0.25" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/layout/activity_modify_expenses.xml" value="0.22" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/layout/activity_onboarding.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/layout/activity_trip_detail.xml" value="0.25" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/layout/activity_trip_selection.xml" value="0.22" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/layout/calculate_parent_layout.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/layout/child_layout.xml" value="0.25" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/layout/expanding_layout_calculate.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/layout/expanding_layout_members.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/layout/fragment_on_boarding1.xml" value="0.25" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/layout/fragment_on_boarding2.xml" value="0.25" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/layout/fragment_on_boarding3.xml" value="0.25" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/layout/login_tab_fragment.xml" value="0.5" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/layout/login_tabfragment.xml" value="0.25" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/layout/parent_layout.xml" value="0.33" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/layout/signup_tab_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/dhruv/AndroidStudioProjects/BillSplitterApp/app/src/main/res/layout/spinner_layout.xml" value="0.18333333333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

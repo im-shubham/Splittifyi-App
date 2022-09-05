@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alike_angular</item>
+        <item>@font/almendra_bold_italic</item>
+        <item>@font/amiko_semibold</item>
+        <item>@font/archivo_black</item>
+        <item>@font/autour_one</item>
+        <item>@font/baloo_tammudu</item>
+        <item>@font/capriola</item>
+        <item>@font/coustard_black</item>
+        <item>@font/sarabun_bold</item>
+        <item>@font/varela_round</item>
+        <item>@font/volkhov</item>
+        <item>@font/wellfleet</item>
+    </array>
+</resources>

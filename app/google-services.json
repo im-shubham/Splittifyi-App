@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "195994384956",
+    "project_id": "splittifyi",
+    "storage_bucket": "splittifyi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195994384956:android:a8e98b34a5e5b5be2ee139",
+        "android_client_info": {
+          "package_name": "com.shubham.billsplitterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195994384956-24c05n10du2aoltrh9j4rbqh3fulkmn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjBrFGH6-IzfWAFh2MDt8cTSQXmTePj9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195994384956-24c05n10du2aoltrh9j4rbqh3fulkmn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
